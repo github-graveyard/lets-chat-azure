@@ -1,0 +1,18 @@
+{
+  "name": "lets-chat-azure",
+  "version": "0.1.0",
+  "description": "Azure add-on for Let's Chat",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Maximilian Krauss",
+    "email": "max@krauss.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maximilian-krauss/lets-chat-azure.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "azure-storage": "^0.4.2"
+  }
+}
