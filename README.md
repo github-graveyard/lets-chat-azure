@@ -2,15 +2,13 @@
 
 Add Azure file support to [Let's Chat](http://sdelements.github.io/lets-chat/).
 
+The plugin will create the specified storage container if necessary.
+If you are using an existing container, make sure you allow anonymous read access to it.
+
 ### Install
 ```
 npm install lets-chat-azure
 ```
-
-### TODO
-- [ ] Create Azure container if not exists
-- [ ] Update/Set container privacy settings to public
-
 
 ### Configure
 
